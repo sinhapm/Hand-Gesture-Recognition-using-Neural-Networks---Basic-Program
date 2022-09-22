@@ -1,5 +1,5 @@
 # Project Name
-> Hand Gesture Recognition using Neural Networks - Basic Program
+Hand Gesture Recognition using Neural Networks - Basic Program
 
 
 ## Table of Contents
